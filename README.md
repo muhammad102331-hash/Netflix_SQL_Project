@@ -67,5 +67,5 @@ Recommendation system using ML
 
 🧑‍💻 Author
 
-Muhammad Zahid Bhutto
+Muhammad ALI
 🔗 GitHub: @muhammad102331-hash
